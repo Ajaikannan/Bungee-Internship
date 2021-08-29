@@ -30,4 +30,4 @@ Step 2(using Excel functions)
 
 2 . Now create a leastPrice.csv sheet with 3 columns (SKU , FIRST_MINIMUM_PRICE , SECOND_MINIMUM_PRICE)
 
-3 .For each filtered SKU find minimum using =min(range) and second minimum using =small(range,2) function
+3. For each filtered SKU find minimum using =min(range) and second minimum using =small(range,2) function
